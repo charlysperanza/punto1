@@ -1,0 +1,7 @@
+C:\Users\Julian\source\repos\punto1aplicaciones\punto1aplicaciones\bin\Debug\punto1aplicaciones.exe.config
+C:\Users\Julian\source\repos\punto1aplicaciones\punto1aplicaciones\bin\Debug\punto1aplicaciones.exe
+C:\Users\Julian\source\repos\punto1aplicaciones\punto1aplicaciones\bin\Debug\punto1aplicaciones.pdb
+C:\Users\Julian\source\repos\punto1aplicaciones\punto1aplicaciones\obj\Debug\punto1aplicaciones.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\punto1aplicaciones\punto1aplicaciones\obj\Debug\punto1aplicaciones.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\punto1aplicaciones\punto1aplicaciones\obj\Debug\punto1aplicaciones.exe
+C:\Users\Julian\source\repos\punto1aplicaciones\punto1aplicaciones\obj\Debug\punto1aplicaciones.pdb
